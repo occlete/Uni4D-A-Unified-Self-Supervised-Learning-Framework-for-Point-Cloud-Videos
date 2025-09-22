@@ -13,7 +13,7 @@ python setup.py install
 cd ./extensions/chamfer_dist
 python setup.py install
 ```
-
+## Training time: 5 days pre-train, 4 days fine-tune
 ## Related Repositories  
 We thank the authors of related repositories:
 1. PSTNet: https://github.com/hehefan/Point-Spatio-Temporal-Convolution
