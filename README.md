@@ -1,4 +1,6 @@
-# Uni4D
+# Part code of Uni4D
+## Official implement of Uni4D by PyTorch
+## Device: 2 × RTX 4090
 
 ## Installation
 The code is tested with Python 3.10, PyTorch 2.0.1, torchvision 0.15.2, and CUDA 11.8.
