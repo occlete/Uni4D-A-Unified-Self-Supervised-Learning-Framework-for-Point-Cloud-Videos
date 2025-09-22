@@ -1,0 +1,10 @@
+# ninja log v5
+1	19475	1728377790027392180	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points_gpu.o	e9004a4f6c3995bd
+0	20112	1728377790671397653	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query_gpu.o	f6ddc9805858e3b1
+1	21503	1728377792065409500	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate_gpu.o	c28ec9b6ab68209d
+1	21672	1728377792233410928	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling_gpu.o	c8c46315dd93f4fd
+0	25625	1728377796186444519	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling.o	ec74abdb246f524
+1	25857	1728377796420446508	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points.o	6921644057282f1e
+1	26780	1728377797343454350	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate.o	94d3550565738169
+0	27180	1728377797743457749	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query.o	1fd793fda920cef1
+0	30890	1728377801448489227	/home/zuozhi/Code/MaST-Pre-main/modules/build/temp.linux-x86_64-cpython-38/_ext_src/src/bindings.o	9c5d27ffa762a5ff

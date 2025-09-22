@@ -1,0 +1,10 @@
+# ninja log v5
+3	14783	1730434854263279723	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/sampling.o	8ae62f3c0a945e51
+0	15099	1730434854583278425	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/ball_query.o	539b50e7310636e9
+2	15192	1730434854675278052	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/interpolate.o	24fa22a7db5ca93f
+1	15293	1730434854775277646	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/bindings.o	cd64cb5927aa11ab
+1	15401	1730434854883277207	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/group_points.o	c034e137f0e33bfe
+2	16953	1730434856443270876	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/group_points_gpu.o	c06fdc864ce4f17c
+2	17041	1730434856531270519	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/interpolate_gpu.o	76aaeac7778466fa
+1	17403	1730434856891269058	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/ball_query_gpu.o	2f1a0b3424b7ce45
+3	17546	1730434857035268473	/home/pod/shared-nvme/ReSD/modules/build/temp.linux-x86_64-cpython-310/_ext_src/src/sampling_gpu.o	fc2893c50e3c58cf

@@ -1,0 +1,3 @@
+# ninja log v5
+1	13879	1730434903327080220	/home/pod/shared-nvme/ReSD/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-310/chamfer_cuda.o	1f2a9f8a801de3e7
+0	47393	1730434936842943506	/home/pod/shared-nvme/ReSD/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-310/chamfer.o	ad4d3880f2c9190d
